@@ -12,5 +12,5 @@ Using OpenMP and nested-loop matrix multiplication. The file contains the follow
 3. Convert 2D to 1D Matrix
 
 # Notes:
-1. The both matrices in bith files are randomly generated using the same seed: srand(3) for Matrix A and srand(4) for Matrix B
+1. The both matrices in both files are randomly generated using the same seed: srand(3) for Matrix A and srand(4) for Matrix B
 2. For the program to return meeaningful runtime, the matrix's size should be 200 or more. 
